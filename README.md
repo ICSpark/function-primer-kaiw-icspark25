@@ -1,6 +1,5 @@
 # function-primer
 
-Your task is to create a JavaScript program that prints out the following message
 
 ```
 ********************
